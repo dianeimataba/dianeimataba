@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [Health Analysis](https://github.com/dianeimataba/health-analysis)
+  - [Health Analysis](https://github.com/dianeimataba/healthcare-analysis)
   - [osTicket: Post-Installation Configuration](https://github.com/dianeimataba/)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/dianeimataba/)
 - <b>Microsoft Azure</b>
