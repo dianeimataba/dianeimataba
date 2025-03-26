@@ -1,8 +1,8 @@
-<h1>Hi, I'm Morrelle Diane Imataba, an <a href="https://linkedin.com/in/morrelle-imataba-434b39176/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Morrelle Diane Imataba, an <a href="https://linkedin.com/in/morrelle-imataba-434b39176/"> Data Analyst Professional</a>☺</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 Data Analyst Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
+- <b> (Help Desk Ticketing System)</b>
   - [Health Analysis](https://github.com/dianeimataba/healthcare-analysis)
   - [osTicket: Post-Installation Configuration](https://github.com/dianeimataba/)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/dianeimataba/)
