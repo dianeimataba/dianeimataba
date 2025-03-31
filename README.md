@@ -8,9 +8,3 @@
   - [](https://github.com/dianeimataba/)
 
 
-<h2>🤳Connect with me:</h2>
-
-
-
-[public-tableau]: https://public.tableau.com/app/profile/morrelle.imataba/vizzes
-[linkedin]: https://www.linkedin.com/in/morrelle-imataba
