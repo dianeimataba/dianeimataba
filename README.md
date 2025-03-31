@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
-- <b> (Help Desk Ticketing System)</b>
+- <b> (Data Analyst Nusre Attrition)</b>
   - [Health Analysis](https://github.com/dianeimataba/healthcare-analysis)
   - [](https://github.com/dianeimataba/)
   - [](https://github.com/dianeimataba/)
