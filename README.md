@@ -10,7 +10,7 @@
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Josh |Public-Tableau" width="22px" src="https://cdn.jsdelivr.net/npm/morrelle-imataba@v3/icons/twitter.svg" />][public-tableau]
+[<img align="left" alt="Josh |Public-Tableau" width="22px" src="https://cdn.jsdelivr.net/npm/morrelle-imataba@v3/icons/public-tableau.svg" />][public-tableau]
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/morrelle-imataba@v3/icons/linkedin.svg" />][linkedin]
 
 
