@@ -1,4 +1,4 @@
-<h1>Hi, I'm Morrelle Diane Imataba, an <a href="https://linkedin.com/in/morrelle-imataba-434b39176/"> Data Analyst Professional</a>☺</h1>
+<h1>Hi, I'm Morrelle Diane Imataba,  <a href="https://linkedin.com/in/morrelle-imataba-434b39176/"> Data Analyst Professional</a>☺</h1>
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
